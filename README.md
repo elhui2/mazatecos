@@ -1,6 +1,6 @@
 # Mazatecos 0.6
 author Arnulfo Padawan
-author elhui2 daniel@rebootproject.mx
+author elhui2
 
 ## Licencias
 Basado en el template:
@@ -11,4 +11,4 @@ https://html5up.net/dimension
 
 ### Cambios en esta version
 
-- Agregando contenido
+- Construyendo la pagina de gastronomia
